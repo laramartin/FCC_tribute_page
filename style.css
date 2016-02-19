@@ -1,0 +1,34 @@
+.jumbotron {
+  text-align: center;
+}
+
+p {
+    font-size: 150%;
+}
+
+.small-img {
+  width: 80%;
+  height: 80%;
+}
+
+extraSmall-img {
+  width: 50%;
+  height: 50%;
+}
+
+#imageContainer{
+  padding: 30px, 30px, 30px, 30px;
+}
+
+#figCaptionStyle{
+  font-size: 125%;
+}
+
+blockquote {
+  width:80%;
+  align: middle;
+}
+
+#footer {
+  font-size: 70%;
+}
